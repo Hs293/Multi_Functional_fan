@@ -13,27 +13,31 @@
 
 ------------------------------------------------------
 #### 4. Hardware schmatic
-![hardware schmatic](https://github.com/user-attachments/assets/fcdc947c-650e-4569-b316-760cc4f83217)
+![다기능 선풍기 외관](https://github.com/user-attachments/assets/1d646694-93f9-4828-b2c8-27ea6b9e548f)
 
 ------------------------------------------------------
 #### 5. Block diagram
 
 ##### 1. Top module
-![블록 다이어그램](https://github.com/user-attachments/assets/fa325d07-94eb-416b-a744-7bac3b2d0352)
+![다기능 선풍기 drawio](https://github.com/user-attachments/assets/74bc97eb-e585-40b2-9dd5-80bc97e6ac4a)
 
-##### 2. UART_RX
-![블록 다이어그램 2](https://github.com/user-attachments/assets/b10c21af-3674-410f-8891-e49231349d1a)
+##### 2. Motor PWM
+![MOTOR PWM 블록](https://github.com/user-attachments/assets/0dbeb739-5485-4383-a180-16cc275aa834)
 
-##### 3. 
-![블록 다이어그램 3](https://github.com/user-attachments/assets/bfba83e8-76c4-44f0-a35c-53b22a2df494)
+##### 3. DHT11_RGB
+![DHT11 블록](https://github.com/user-attachments/assets/edf1b506-b9e0-4315-bc31-de683b7c59c0)
 
 ------------------------------------------------------
 #### 6. Demo
 
-1.
-[![Video Label](http://img.youtube.com/vi/acDf3N0trYE/0.jpg)](https://youtu.be/acDf3N0trYE)
+##### 1. Full
+[![Video Label](http://img.youtube.com/vi/CYFq4jIt_x0/0.jpg)](https://youtu.be/CYFq4jIt_x0)
 
-2.
-[![Video Label](http://img.youtube.com/vi/JBlNLx0vRK4/0.jpg)](https://youtu.be/JBlNLx0vRK4)
+##### 2. DHT11 & RGB
+[![Video Label](http://img.youtube.com/vi/eSmWAie6N8o/0.jpg)](https://youtu.be/eSmWAie6N8o)
+
+##### 3. Motor PWM
+[![Video Label](http://img.youtube.com/vi/BMba1_c40Dg/0.jpg)](https://youtu.be/BMba1_c40Dg)
+
 ------------------------------------------------------
 

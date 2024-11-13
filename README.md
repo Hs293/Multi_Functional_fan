@@ -12,29 +12,28 @@
 ![TIME LINE](https://github.com/user-attachments/assets/ad34d8c7-dd8e-426a-a124-43b6f5f56e61)
 
 ------------------------------------------------------
-#### . Block diagram
+#### 4. Hardware schmatic
+![hardware schmatic](https://github.com/user-attachments/assets/fcdc947c-650e-4569-b316-760cc4f83217)
+
+------------------------------------------------------
+#### 5. Block diagram
 
 ##### 1. Top module
-![다기능 선풍기 drawio](https://github.com/user-attachments/assets/74bc97eb-e585-40b2-9dd5-80bc97e6ac4a)
+![블록 다이어그램](https://github.com/user-attachments/assets/fa325d07-94eb-416b-a744-7bac3b2d0352)
 
-##### 2. Motor PWM
-![MOTOR PWM 블록](https://github.com/user-attachments/assets/0dbeb739-5485-4383-a180-16cc275aa834)
+##### 2. UART_RX
+![블록 다이어그램 2](https://github.com/user-attachments/assets/b10c21af-3674-410f-8891-e49231349d1a)
 
-##### 3. DHT11_RGB
-![DHT11 블록](https://github.com/user-attachments/assets/edf1b506-b9e0-4315-bc31-de683b7c59c0)
-
-------------------------------------------------------
-#### . Demo
-[![Video Label](http://img.youtube.com/vi/CYFq4jIt_x0/0.jpg)](https://youtu.be/CYFq4jIt_x0)
+##### 3. 
+![블록 다이어그램 3](https://github.com/user-attachments/assets/bfba83e8-76c4-44f0-a35c-53b22a2df494)
 
 ------------------------------------------------------
-#### . Demo My Role
+#### 6. Demo
 
-1. Motor PWM
+1.
+[![Video Label](http://img.youtube.com/vi/acDf3N0trYE/0.jpg)](https://youtu.be/acDf3N0trYE)
 
-[![Video Label](http://img.youtube.com/vi/BMba1_c40Dg/0.jpg)](https://youtu.be/BMba1_c40Dg')
+2.
+[![Video Label](http://img.youtube.com/vi/JBlNLx0vRK4/0.jpg)](https://youtu.be/JBlNLx0vRK4)
+------------------------------------------------------
 
-2. DHT11_RGB
-
-[![Video Label](http://img.youtube.com/vi/eSmWAie6N8o/0.jpg)](https://youtu.be/eSmWAie6N8o)
--------------------------------------------------------

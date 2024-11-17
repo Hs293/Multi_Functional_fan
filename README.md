@@ -25,7 +25,7 @@
 ![MOTOR PWM 블록](https://github.com/user-attachments/assets/0dbeb739-5485-4383-a180-16cc275aa834)
 
 ##### 3. DHT11_RGB
-![DHT11 블록](https://github.com/user-attachments/assets/edf1b506-b9e0-4315-bc31-de683b7c59c0)
+![dht11 drawio](https://github.com/user-attachments/assets/7ca9d6ed-617f-4c24-8ff3-1efa1241abc7)
 
 ------------------------------------------------------
 #### 6. Demo
